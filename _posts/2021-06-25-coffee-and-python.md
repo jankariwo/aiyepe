@@ -2,7 +2,7 @@
 layout: post
 title: Coffee & Python
 image: "/posts/coffee_python.jpg"
-tags: [Python, Coffee]
+tags: [Python, Coffee, LovingThis]
 ---
 
 # My first project
@@ -45,7 +45,7 @@ Here is an **unordered list** showing some things I love about Python
     * Deep Learning
     * Computer Vision
     * Projects about coffee
-
+---
 Here is an _ordered list_ showing some things I love about coffee
 
 1. The smell
